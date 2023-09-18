@@ -1,12 +1,11 @@
-def subtracao(n1: int, n2: int) -> int:
+def multiplicacao(n1: int, n2: int) -> int:
     """
-    Subtrai dois números
+    Multiplica dois números
     Args:
     n1: primeiro número;
     n2: segundo numero;
 
     Returns:
-    A subtração de dois números.
+    A multiplicação de dois números.
     """
-    return n1 - n2
-
+    return n1 * n2
